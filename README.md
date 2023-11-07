@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Edson Luis 👋
 ![Github](https://github-readme-stats.vercel.app/api?username=edson-1975&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edson-1975&langs_count=8)
 
 ## My Skills
 ### Main Stack:
@@ -26,11 +25,14 @@
 	<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	<img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
+
 ### Workstation Tools:
 <div style="display: inline_block"><br/>
 	<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	<img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edson-1975&langs_count=8)
 
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson1975/)
