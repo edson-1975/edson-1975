@@ -11,7 +11,7 @@
 	<img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div><br/>
 	
-Sou apaixonado por tecnologia
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edson-1975&langs_count=8)
 
 ## Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson1975/)
